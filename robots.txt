@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-vyvodom-na-kartu.github.io
+Sitemap: https://kazino-s-vyvodom-na-kartu.github.io/sitemap.xml
